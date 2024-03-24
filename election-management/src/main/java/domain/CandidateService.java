@@ -1,5 +1,6 @@
 package domain;
 
+import api.dto.in.UpdateCandidate;
 import jakarta.enterprise.context.ApplicationScoped;
 
 import java.util.List;

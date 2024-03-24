@@ -49,7 +49,7 @@ class CandidateServiceTest {
     }
 
     @Test
-    void findById_whwnCandidateIsFound_returnsCandidate() {
+    void findById_whenCandidateIsFound_returnsCandidate() {
         Candidate candidate = Instancio.create(Candidate.class);
 
 
